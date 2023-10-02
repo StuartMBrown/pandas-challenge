@@ -1,4 +1,4 @@
-# pandas-challenge
+# pandas-challenge, thanks to Amanda Baynard for assistance
 MEMO TO THE SUPERINTENDENT OF URBOPOLIS PUBLIC SCHOOLS
 
 The data show that our charter schools demonstrate significantly higher proficiency than our district schools, and more consistently produce proficient alumni; while our district schools do fairly in math proficiency and commendably in reading proficiency, our charter schools are much further ahead in dual proficiency. There are two aspects of my findings that I feel we should consider for the next school year.
